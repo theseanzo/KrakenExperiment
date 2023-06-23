@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    int myStupidVariable = 12;
     // Start is called before the first frame update
     void Start()
     {
